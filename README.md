@@ -29,6 +29,4 @@ Electrical and Electronic Engineer && Software Developer
 
 <a href="http://www.github.com/narmankerem"><img src="https://github-readme-streak-stats.herokuapp.com/?user=narmankerem&stroke=ffffff&background=1c1917&ring=22c55e&fire=22c55e&currStreakNum=ffffff&currStreakLabel=22c55e&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="http://www.github.com/narmankerem"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=narmankerem&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
 <a href="https://github.com/narmankerem" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=narmankerem&langs_count=10&title_color=22c55e&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
